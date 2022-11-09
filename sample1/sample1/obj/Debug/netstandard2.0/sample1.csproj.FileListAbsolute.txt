@@ -1,0 +1,14 @@
+/Users/karan/Projects/sample1/sample1/sample1/bin/Debug/netstandard2.0/sample1.deps.json
+/Users/karan/Projects/sample1/sample1/sample1/bin/Debug/netstandard2.0/sample1.dll
+/Users/karan/Projects/sample1/sample1/sample1/bin/Debug/netstandard2.0/ref/sample1.dll
+/Users/karan/Projects/sample1/sample1/sample1/bin/Debug/netstandard2.0/sample1.pdb
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.csproj.AssemblyReference.cache
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.AssemblyInfoInputs.cache
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.AssemblyInfo.cs
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.csproj.CoreCompileInputs.cache
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.dll
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/ref/sample1.dll
+/Users/karan/Projects/sample1/sample1/sample1/obj/Debug/netstandard2.0/sample1.pdb

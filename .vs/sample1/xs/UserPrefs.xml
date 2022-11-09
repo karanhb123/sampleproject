@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{082DF485-D32B-4B59-8A1E-D65E5DE9D7DD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.ItemProperties.sample1.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.sample1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C32F966-AB6C-4312-91A3-40046B1FA5B4" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample1/sample1/MainPage.xaml">
+    <Files>
+      <File FileName="sample1/sample1/MainPage.xaml.cs" />
+      <File FileName="sample1/sample1/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="sample1" expanded="True">
+            <Node name="sample1" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
